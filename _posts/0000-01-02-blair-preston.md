@@ -2,4 +2,4 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 Your text
-Use the left arrow to go back!
+"Nothing is impossible, the word itself says 'I'm possible'!" -Audrey Hepburn
